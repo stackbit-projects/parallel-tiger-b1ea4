@@ -121,7 +121,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ehClk9_8TBI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 seo:
   title: Pricing
   description: This is the pricing page
